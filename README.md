@@ -6,6 +6,9 @@
 ## Installation
 > Upload it in your wordpress plugin directory, install it from the admin panel and add the shortcode [greek-coronavirus-stats] in a page
 
+## See it live
+MrWebsite.gr/coronavirus
+
 ## Contributing
 1. Star it
 2. Fork it (<https://github.com/Katsaros/convert-plaintext-to-hash-code/fork>)

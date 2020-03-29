@@ -1,0 +1,30 @@
+.coronavirusstats
+{
+    justify-content: center;
+    text-align: center;
+    margin: 5px!important;
+    border-radius: 0px;
+    color: #000!important;
+    background: #fff!important;
+    padding: 20px;
+    box-shadow: 0px 0px 7px grey!important;
+}
+
+.coronatable table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 0px;
+}
+
+.coronatable th, 
+.coronatable td {
+  text-align: left;
+  padding: 8px;
+}
+
+.coronatable tr:nth-child(even){background-color: #f2f2f2}
+
+.coronatable th {
+  background-color: #f9b700;
+  color: white;
+}

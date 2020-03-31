@@ -1,4 +1,4 @@
-# Wordpress-Greek-Coronavirus-Stats
+# Greek-Coronavirus-Stats-Wordpress-Plugin
 > This plugin automatically reload the arrays values every time you refresh the page<br>
 
 ![](sample.png)

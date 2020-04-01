@@ -6,7 +6,7 @@
 ## Installation
 > Upload it in your wordpress plugin directory, install it from the admin panel and add the shortcode [greek-coronavirus-stats] in a page
 
-## See it live
+## Watch it live
 ><https://MrWebsite.gr/coronavirus>
 
 ## Contributing
